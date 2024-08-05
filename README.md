@@ -54,14 +54,15 @@ Highly skilled Laravel Developer with expertise in designing and implementing co
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0077B5?style=for-the-badge&logo=rest&logoColor=white)
-![Telescope](https://img.shields.io/badge/Telescope-008080?style=for-the-badge&logo=telescope&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-0077B5?style=for-the-badge&logo=api&logoColor=white)
+![Telescope](https://img.shields.io/badge/Telescope-008080?style=for-the-badge&logo=eye&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 
